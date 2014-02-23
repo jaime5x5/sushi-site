@@ -11,7 +11,7 @@ RESEARCH: What problems exist? Why a redesign?
 USERS: Who are the users?
 	platform: Desktop and mobile friendly.
 	usage: 	a. Checking for what is in the area (yelp).
-			b. Sushi seekers.
+		b. Sushi seekers.
 
 DESIGN: What are your solutions to these problems?
 
