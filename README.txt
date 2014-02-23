@@ -4,7 +4,8 @@ VCD/378
 Sushi-site
 
 RESEARCH: What problems exist? Why a redesign?
-	Intro looks nice but not relevent. Site needs reorganized so primary user objectives are prominently available.
+	Intro looks nice but not relevent. Site needs reorganized so
+	primary user objectives are prominently available.
 
 
 USERS: Who are the users?
