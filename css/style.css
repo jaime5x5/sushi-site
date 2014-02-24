@@ -1,0 +1,56 @@
+
+.menuspecials {
+	background: url(../img/bg1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: 3.9em;
+}
+.ourmenu {
+	background: url(../img/bg6Final.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.ourlocation {
+	background: url(../img/bg4Final.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.ourhours {
+	background: url(../img/bg5Final.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;	
+}
+
+.transbtm {
+	background: url(../img/chopsTrans.png);
+	background-size: contain;
+	height: 270px;
+	width: 100%;
+	margin-top: -9.4%;
+	/* margin-bottom: 3350px; */
+	background-repeat: no-repeat;
+	position: absolute;
+}
+.spacer1 {
+	margin-bottom: 5em;
+
+}
+.sectionTitle {
+	margin-top: 3em;
+}
+.top-bar {
+	position: fixed;
+	width: 100%;
+	height: 4em;
+	z-index: 100;
+	margin-top: -4em;
+}
+
+.panel {
+	background-color: rgba(0, 0, 0, .5);
+
+}
+nav {
+	margin-bottom: 2em;
+}
