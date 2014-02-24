@@ -161,6 +161,28 @@ ul.pricing-table .price {
 	border-bottom: none;
 }
 
+.spacer1 h3 {
+	color: white;
+}
+
+.spacer1 label {
+	color: white;
+	font-size: 1.3em;
+}
+table {
+	border-collapse: none;
+	border-spacing: 0;
+	border-color: none;
+}
+
+table tr:nth-of-type(odd) {
+background: rgba(255, 255, 255, .5);
+}
+
+.button {
+	background-color: #2E8B57;
+}
+
 /*********media queries******/
 @media only screen and (min-width: 768px){
   .left-side { border-right: none; }
