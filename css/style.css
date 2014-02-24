@@ -88,6 +88,7 @@ nav {
 }
 
 .card .container .back {
+	background-color: white;
   position: absolute;
   height: 100%;
   left: 0;
@@ -121,7 +122,11 @@ ul.pricing-table i { display: inline-block; margin-right: 5px; }
 @media only screen and (min-width: 768px){
   .left-side { border-right: none; }
   .right-side { border-left: none; }
-}                   
+} 
+#gmap {
+	width: 300px;
+	height: 250px; 
+}                  
 
 panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6, .panel p {
 color: black;
