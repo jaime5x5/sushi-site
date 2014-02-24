@@ -173,6 +173,7 @@ table {
 	border-collapse: none;
 	border-spacing: 0;
 	border-color: none;
+	border-radius: 100px;
 }
 
 table tr:nth-of-type(odd) {
